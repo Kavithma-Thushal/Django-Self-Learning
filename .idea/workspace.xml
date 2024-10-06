@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="303393f9-51d1-41ca-9404-2d059f4a2289" name="Changes" comment="Refactored" />
+    <list default="true" id="303393f9-51d1-41ca-9404-2d059f4a2289" name="Changes" comment="README.md Updated">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,21 +15,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Kavithma-Thushal"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Kavithma-Thushal&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Kavithma-Thushal/Django_Self_Learning.git",
-    "accountId": "e8bbd35c-07af-4365-91b8-35e6757360f3"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Kavithma-Thushal/Django_Self_Learning.git&quot;,
+    &quot;accountId&quot;: &quot;e8bbd35c-07af-4365-91b8-35e6757360f3&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2mxEVLwoE9GUklW8XDVcC4TIVK9" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -42,6 +44,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
@@ -67,6 +73,8 @@
       <option name="presentableId" value="Default" />
       <updated>1728009851776</updated>
       <workItem from="1728009853620" duration="249000" />
+      <workItem from="1728185909291" duration="144000" />
+      <workItem from="1728186690892" duration="1858000" />
     </task>
     <task id="LOCAL-00001" summary="Refactored">
       <option name="closed" value="true" />
@@ -76,7 +84,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728010094920</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="README.md Updated">
+      <option name="closed" value="true" />
+      <created>1728186041999</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728186041999</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,7 +100,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Refactored" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactored" />
+    <MESSAGE value="README.md Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="README.md Updated" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Django_Self_Learning$manage.coverage" NAME="manage Coverage Results" MODIFIED="1728009930740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
