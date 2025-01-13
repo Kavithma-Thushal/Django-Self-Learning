@@ -20,6 +20,11 @@ development, leveraging the robustness of Python.
 ✅ Developing and deploying Django applications using Docker containers.<br/>
 ✅ Utilizing Jupyter Notebooks for interactive Django shell commands.<br/>
 
+## Run Commands
+
+`python manage.py migrate`<br/>
+`python manage.py runserver`<br/>
+
 ## 📝 Version
 
 **1.0.0**
